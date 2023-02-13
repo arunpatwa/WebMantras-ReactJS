@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  background-color: darkslategray;
+  color: white;
+  min-height: 100vh;
+}
+
+.header {
+  background-color: chocolate;
+  min-width: 40px;
+}
+
+h1 {
+  margin: 0;
+  padding: 8px;
+}
+
+.spinner {
+  width: 100vw;
+  min-height: 80vh;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  padding: 14px;
+}
